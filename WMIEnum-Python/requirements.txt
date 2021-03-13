@@ -1,2 +1,2 @@
-impacket
-wmi
+wmi-client-wrapper-py3;platform_system == "Linux"
+wmi;platform_system == "Windows"
